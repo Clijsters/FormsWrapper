@@ -7,7 +7,7 @@ using System.Diagnostics;
 using System.Runtime.InteropServices;
 
 //TODO: Create good code, remove this sample.
-//This class isn't good. Look at MouseHook.cs and KeyboardHook.cs instead.
+//Take a look at MouseHook.cs and KeyboardHook.cs instead.
 
 #region oldStuff
 namespace FormsWrapper.TUI
